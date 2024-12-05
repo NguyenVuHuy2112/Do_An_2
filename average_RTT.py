@@ -36,5 +36,5 @@ def process_log_file(file_path):
 
 # Example usage
 if __name__ == "__main__":
-    file_path = "C:/Users/ACER/putty.log"
+    file_path = "C:/Users/ACER/data_log.log"
     process_log_file(file_path)
