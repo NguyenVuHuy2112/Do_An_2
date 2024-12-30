@@ -20,7 +20,7 @@
 #define RPL_CONF_OF rpl_mrhof
 #define RPL_CONF_INIT_LINK_METRIC RPL_INIT_LINK_METRIC_ETX
 
-
+#define TSCH_SCHEDULE_CONF_WITH_6TISCH_MINIMAL 1
 
 /* Needed for cc2420 platforms only */
 /* Disable DCO calibration (uses timerB) */
